@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>What_does_waitForElementVisible_keyword_actually_do</name>
+   <name>What_does_verifyElementVisible_keyword_actually_do</name>
    <tag></tag>
    <UUID>828f57dc-c868-4cd6-8bb0-0a203beeb6f4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/kazuakiurayama/katalon-workspace/katalon_keywords_difference_Present_Visible_Clickable/katalon_keywords_difference_Present_Visible_Clickable.prj</projectFileLocation>
+   <projectFileLocation>/Users/kazuakiurayama/katalon-workspace/What_does_verifyElementVisible_keyword_actually_do/What_does_verifyElementVisible_keyword_do.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
